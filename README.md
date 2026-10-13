@@ -16,8 +16,10 @@ Organize the dataset using the following directory structure:
 ```text
 datapath/
 ├── trainA/
+├── trainA_mask/
 ├── trainB/
 ├── testA/
+├── testA_mask/
 └── testB/
 ```
 
@@ -77,8 +79,10 @@ Organize the dataset using the following directory structure:
 ```text
 datapath/
 ├── trainA/
+├── trainA_mask/
 ├── trainB/
 ├── testA/
+├── testA_mask/
 └── testB/
 ```
 
